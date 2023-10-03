@@ -77,3 +77,4 @@ zipp==3.17.0
 pdfplumber
 sentence-transformers
 audio-recorder-streamlit
+faiss-cpu
